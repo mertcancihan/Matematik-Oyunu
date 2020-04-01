@@ -1,0 +1,11 @@
+C:\Users\canci\Documents\Visual Studio 2019\Matematik Oyunu\Matematik Oyunu\bin\Debug\Matematik Oyunu.exe.config
+C:\Users\canci\Documents\Visual Studio 2019\Matematik Oyunu\Matematik Oyunu\bin\Debug\Matematik Oyunu.exe
+C:\Users\canci\Documents\Visual Studio 2019\Matematik Oyunu\Matematik Oyunu\bin\Debug\Matematik Oyunu.pdb
+C:\Users\canci\Documents\Visual Studio 2019\Matematik Oyunu\Matematik Oyunu\obj\Debug\Matematik Oyunu.csprojAssemblyReference.cache
+C:\Users\canci\Documents\Visual Studio 2019\Matematik Oyunu\Matematik Oyunu\obj\Debug\Matematik_Oyunu.Properties.Resources.resources
+C:\Users\canci\Documents\Visual Studio 2019\Matematik Oyunu\Matematik Oyunu\obj\Debug\Matematik Oyunu.csproj.GenerateResource.cache
+C:\Users\canci\Documents\Visual Studio 2019\Matematik Oyunu\Matematik Oyunu\obj\Debug\Matematik Oyunu.exe
+C:\Users\canci\Documents\Visual Studio 2019\Matematik Oyunu\Matematik Oyunu\obj\Debug\Matematik Oyunu.pdb
+C:\Users\canci\Documents\Visual Studio 2019\Matematik Oyunu\Matematik Oyunu\obj\Debug\Matematik_Oyunu.Game.resources
+C:\Users\canci\Documents\Visual Studio 2019\Matematik Oyunu\Matematik Oyunu\obj\Debug\Matematik_Oyunu.Register.resources
+C:\Users\canci\Documents\Visual Studio 2019\Matematik Oyunu\Matematik Oyunu\obj\Debug\Matematik_Oyunu.Score.resources

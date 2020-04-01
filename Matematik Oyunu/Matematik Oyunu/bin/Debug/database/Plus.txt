@@ -1,0 +1,4 @@
+  50 --- mert
+  80 --- hasan
+  110 --- can
+  5 --- mustafa
